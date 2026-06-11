@@ -4,7 +4,6 @@
 02 B1  Fisica sperimentale della materia	
 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 03 A2  Modelli e metodologie per le scienze chimiche	
-03 C1  Chimica organica	
 05 A2  Fisiologia vegetale	
 05 D1  Fisiologia	
 05 E2  Biologia molecolare	
@@ -118,5 +117,4 @@
 13 D1  Statistica	
 13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
-14 C1  Sociologia generale	
 14 C3  Sociologia dei fenomeni politici e giuridici	

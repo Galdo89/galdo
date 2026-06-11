@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 68/190 
+ESITI PUBBLICATI 70/190 
+
+- 11/06/2026 14 C1  Sociologia generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC1/2/6) 
 
 - 11/06/2026 13 A3  Scienza delle finanze	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/2/6) 
 
@@ -7,6 +9,8 @@ ESITI PUBBLICATI 68/190
 - 11/06/2026 05 B1  Zoologia e antropologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FB1/2/6) 
 
 - 11/06/2026 04 A3  Geologia applicata, geografia fisica e geomorfologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA3/2/6) 
+
+- 11/06/2026 03 C1  Chimica organica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC1/2/6) 
 
 - 11/06/2026 03 A1  Chimica analitica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FA1/2/6) 
 
@@ -160,6 +164,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 03/B2: : 48.6 (I) 45.3 (II)
 
+03/C1: : 67.4 (I) 67.6 (II)
+
 03/C2: : 37.5 (I) 25.9 (II)
 
 03/D1: : 92.9 (I) 68.3 (II)
@@ -270,11 +276,13 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/B2: : 58.3 (I) 65.5 (II)
 
+14/C1: : 73.6 (I) 60.0 (II)
+
 14/C2: : 61.5 (I) 62.3 (II)
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-11 19:41:56.397787
+UPDATED 2026-06-11 19:46:34.256176
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
