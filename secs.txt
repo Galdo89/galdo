@@ -6,7 +6,6 @@
 03 A2  Modelli e metodologie per le scienze chimiche	
 03 C1  Chimica organica	
 05 A2  Fisiologia vegetale	
-05 B1  Zoologia e antropologia	
 05 D1  Fisiologia	
 05 E2  Biologia molecolare	
 05 E3  Biochimica clinica e biologia molecolare clinica	
