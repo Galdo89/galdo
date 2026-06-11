@@ -1,0 +1,44 @@
+name: Fetch
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "2,7,12,17,22,27,32,37,42,47,52,57 8-20 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-asn
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch results
+        env:
+          ASN_NOTIFY: ${{ secrets.ASN_NOTIFY }}
+          ASN_EMAIL_FROM: ${{ secrets.ASN_EMAIL_FROM }}
+          ASN_EMAIL_PASSWORD: ${{ secrets.ASN_EMAIL_PASSWORD }}
+          ASN_NOTIFY_TO: ${{ secrets.ASN_NOTIFY_TO }}
+        run: OPENSSL_CONF=openssl.cnf python3 getasn.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add secs_ordered.txt README.md secs.txt
+          git add notifications.out 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update"
+            git push
+          fi
