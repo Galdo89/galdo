@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 65/190 
+ESITI PUBBLICATI 66/190 
+
+- 11/06/2026 13 A3  Scienza delle finanze	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/2/6) 
 
 - 11/06/2026 05 E1  Biochimica generale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE1/2/6) 
 
@@ -242,6 +244,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A2: : 55.5 (I) 67.4 (II)
 
+13/A3: : 22.0 (I) 25.4 (II)
+
 13/A5: : 31.2 (I) 32.1 (II)
 
 13/B3: : 81.8 (I) 75.7 (II)
@@ -262,7 +266,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-11 18:56:47.372726
+UPDATED 2026-06-11 19:02:20.726044
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
