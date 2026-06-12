@@ -1,6 +1,8 @@
-ESITI PUBBLICATI 83/190 
+ESITI PUBBLICATI 84/190 
 
 - 12/06/2026 13 D1  Statistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/2/6) 
+
+- 12/06/2026 08 D1  Progettazione architettonica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FD1/2/6) 
 
 - 12/06/2026 08 B3  Tecnica delle costruzioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB3/2/6) 
 
@@ -280,6 +282,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/B3: : 88.0 (I) 69.8 (II)
 
+08/D1: : 71.1 (I) 64.3 (II)
+
 10/D2: : 83.3 (I) 88.2 (II)
 
 10/E1: : 72.7 (I) 76.5 (II)
@@ -334,7 +338,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-12 11:26:39.796504
+UPDATED 2026-06-12 11:31:48.039078
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
