@@ -1,8 +1,12 @@
-ESITI PUBBLICATI 98/190 
+ESITI PUBBLICATI 100/190 
+
+- 12/06/2026 13 D3  Demografia e statistica sociale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
 - 12/06/2026 13 D1  Statistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/2/6) 
 
 - 12/06/2026 13 B2  Economia e gestione delle imprese	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB2/2/6) 
+
+- 12/06/2026 13 B1  Economia aziendale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB1/2/6) 
 
 - 12/06/2026 13 A4  Economia applicata	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/2/6) 
 
@@ -370,6 +374,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A5: : 31.2 (I) 32.1 (II)
 
+13/B1: : 44.4 (I) 60.0 (II)
+
 13/B2: : 56.9 (I) 45.7 (II)
 
 13/B3: : 81.8 (I) 75.7 (II)
@@ -377,6 +383,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 13/C1: : 90.9 (I) 88.9 (II)
 
 13/D1: : 36.1 (I) 26.1 (II)
+
+13/D3: : 50.0 (I) 36.1 (II)
 
 13/D4: : 48.4 (I) 67.4 (II)
 
@@ -394,7 +402,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-12 14:26:21.672436
+UPDATED 2026-06-12 14:31:48.302565
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

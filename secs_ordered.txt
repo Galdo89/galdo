@@ -97,3 +97,5 @@
 - 12/06/2026 08 C1  Design e progettazione tecnologica dell'architettura	 PERCENTUALI: 40.0 (I) 32.8 (II)
 - 12/06/2026 13 B2  Economia e gestione delle imprese	 PERCENTUALI: 56.9 (I) 45.7 (II)
 - 12/06/2026 02 B1  Fisica sperimentale della materia	 PERCENTUALI: 60.3 (I) 42.6 (II)
+- 12/06/2026 13 B1  Economia aziendale	 PERCENTUALI: 44.4 (I) 60.0 (II)
+- 12/06/2026 13 D3  Demografia e statistica sociale	 PERCENTUALI: 50.0 (I) 36.1 (II)
