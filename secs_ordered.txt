@@ -90,3 +90,4 @@
 - 12/06/2026 13 A4  Economia applicata	 PERCENTUALI: 45.1 (I) 22.0 (II)
 - 12/06/2026 05 D1  Fisiologia	 PERCENTUALI: 69.2 (I) 32.9 (II)
 - 12/06/2026 07 A1  Economia agraria ed estimo	 PERCENTUALI: 42.3 (I) 45.7 (II)
+- 12/06/2026 13 A1  Economia politica	 PERCENTUALI: 61.2 (I) 59.2 (II)
