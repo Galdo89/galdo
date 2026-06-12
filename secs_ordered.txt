@@ -83,3 +83,4 @@
 - 12/06/2026 13 D1  Statistica	 PERCENTUALI: 36.1 (I) 26.1 (II)
 - 12/06/2026 08 B3  Tecnica delle costruzioni	 PERCENTUALI: 88.0 (I) 69.8 (II)
 - 12/06/2026 08 D1  Progettazione architettonica	 PERCENTUALI: 71.1 (I) 64.3 (II)
+- 12/06/2026 08 E1  Disegno	 PERCENTUALI: 42.9 (I) 33.3 (II)
