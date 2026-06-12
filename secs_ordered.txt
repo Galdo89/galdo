@@ -105,3 +105,5 @@
 - 12/06/2026 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	 PERCENTUALI: 60.0 (I) 17.3 (II)
 - 12/06/2026 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	 PERCENTUALI: 81.0 (I) 61.7 (II)
 - 12/06/2026 06 F1  Malattie odontostomatologiche	 PERCENTUALI: 95.1 (I) 88.1 (II)
+- 12/06/2026 10 G1  Glottologia e linguistica	 PERCENTUALI: 52.0 (I) 57.4 (II)
+- 12/06/2026 12 A1  Diritto privato	 PERCENTUALI: 92.6 (I) 73.5 (II)

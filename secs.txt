@@ -47,7 +47,6 @@
 10 F2  Letteratura italiana contemporanea	
 10 F3  Linguistica e filologia italiana	
 10 F4  Critica letteraria e letterature comparate	
-10 G1  Glottologia e linguistica	
 10 L1  Lingue, letterature e culture inglese e anglo-americane	
 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	
 10 N3  Culture dell'Asia centrale e orientale	
@@ -66,7 +65,6 @@
 11 E1  Psicologia generale, psicobiologia e psicometria	
 11 E2  Psicologia dello sviluppo e dell'educazione	
 11 E4  Psicologia clinica e dinamica	
-12 A1  Diritto privato	
 12 B1  Diritto commerciale	
 12 B2  Diritto del lavoro	
 12 C2  Diritto ecclesiastico e canonico	
