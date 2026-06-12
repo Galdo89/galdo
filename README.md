@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 100/190 
+ESITI PUBBLICATI 102/190 
 
 - 12/06/2026 13 D3  Demografia e statistica sociale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
@@ -31,6 +31,10 @@ ESITI PUBBLICATI 100/190
 - 12/06/2026 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FI1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FI1/2/6) 
 
 - 12/06/2026 06 F3  Otorinolaringoiatria e audiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF3/2/6) 
+
+- 12/06/2026 06 E3  Neurochirurgia e chirurgia maxillo facciale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE3/2/6) 
+
+- 12/06/2026 05 E3  Biochimica clinica e biologia molecolare clinica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE3/2/6) 
 
 - 12/06/2026 05 D1  Fisiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/2/6) 
 
@@ -264,6 +268,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/E2: : 48.6 (I) 26.3 (II)
 
+05/E3: : 47.2 (I) 31.1 (II)
+
 05/G1: : 77.5 (I) 58.3 (II)
 
 05/H2: : 12.5 (I) 27.9 (II)
@@ -283,6 +289,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/E1: : 66.7 (I) 81.5 (II)
 
 06/E2: : 60.0 (I) 61.4 (II)
+
+06/E3: : 90.0 (I) 81.5 (II)
 
 06/F3: : 36.4 (I) 68.0 (II)
 
@@ -402,7 +410,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-12 14:41:14.998052
+UPDATED 2026-06-12 14:46:30.300218
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

@@ -1,6 +1,5 @@
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
-05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
 05 H1  Anatomia umana	
 05 I1  Genetica	
@@ -11,7 +10,6 @@
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	
 06 D6  Neurologia	
-06 E3  Neurochirurgia e chirurgia maxillo facciale	
 06 F1  Malattie odontostomatologiche	
 06 F2  Malattie apparato visivo	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
