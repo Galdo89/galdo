@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 113/190 
+ESITI PUBBLICATI 117/190 
 
 - 12/06/2026 13 D3  Demografia e statistica sociale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
@@ -11,6 +11,12 @@ ESITI PUBBLICATI 113/190
 - 12/06/2026 13 A4  Economia applicata	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/2/6) 
 
 - 12/06/2026 13 A1  Economia politica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA1/2/6) 
+
+- 12/06/2026 12 H2  Storia del diritto medievale e moderno	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH2/2/6) 
+
+- 12/06/2026 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE3/2/6) 
+
+- 12/06/2026 12 D1  Diritto amministrativo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD1/2/6) 
 
 - 12/06/2026 12 A1  Diritto privato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/2/6) 
 
@@ -37,6 +43,8 @@ ESITI PUBBLICATI 113/190
 - 12/06/2026 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA3/2/6) 
 
 - 12/06/2026 07 A1  Economia agraria ed estimo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/2/6) 
+
+- 12/06/2026 06 M2  Medicina legale e del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/2/6) 
 
 - 12/06/2026 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FI1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FI1/2/6) 
 
@@ -332,6 +340,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/I1: : 88.6 (I) 62.7 (II)
 
+06/M2: : 76.2 (I) 44.7 (II)
+
 06/N2: : 63.6 (I) 48.3 (II)
 
 07/A1: : 42.3 (I) 45.7 (II)
@@ -408,13 +418,19 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 12/C1: : 81.0 (I) 63.0 (II)
 
+12/D1: : 84.6 (I) 79.3 (II)
+
 12/E1: : 66.7 (I) 58.3 (II)
+
+12/E3: : 73.3 (I) 72.7 (II)
 
 12/G1: : 100.0 (I) 53.8 (II)
 
 12/G2: : 60.0 (I) 75.0 (II)
 
 12/H1: : 100.0 (I) 69.2 (II)
+
+12/H2: : 80.0 (I) 62.5 (II)
 
 13/A1: : 61.2 (I) 59.2 (II)
 
@@ -454,7 +470,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-12 17:56:04.484497
+UPDATED 2026-06-12 18:01:44.939757
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

@@ -112,3 +112,7 @@
 - 12/06/2026 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 PERCENTUALI: 100.0 (I) 83.3 (II)
 - 12/06/2026 06 A3  Microbiologia e microbiologia clinica	 PERCENTUALI: 56.7 (I) 48.7 (II)
 - 12/06/2026 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	 PERCENTUALI: 76.7 (I) 63.5 (II)
+- 12/06/2026 06 M2  Medicina legale e del lavoro	 PERCENTUALI: 76.2 (I) 44.7 (II)
+- 12/06/2026 12 D1  Diritto amministrativo	 PERCENTUALI: 84.6 (I) 79.3 (II)
+- 12/06/2026 12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	 PERCENTUALI: 73.3 (I) 72.7 (II)
+- 12/06/2026 12 H2  Storia del diritto medievale e moderno	 PERCENTUALI: 80.0 (I) 62.5 (II)

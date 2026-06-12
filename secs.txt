@@ -10,7 +10,6 @@
 06 H1  Ginecologia e ostetricia	
 06 L1  Anestesiologia	
 06 M1  Igiene generale e applicata, scienze infermieristiche e statistica medica	
-06 M2  Medicina legale e del lavoro	
 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
@@ -63,13 +62,10 @@
 12 B1  Diritto commerciale	
 12 B2  Diritto del lavoro	
 12 C2  Diritto ecclesiastico e canonico	
-12 D1  Diritto amministrativo	
 12 D2  Diritto tributario	
 12 E2  Diritto comparato	
-12 E3  Diritto dell'economia, dei mercati finanziari e agroalimentari e della navigazione	
 12 E4  Diritto dell'Unione europea	
 12 F1  Diritto processuale civile	
-12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
