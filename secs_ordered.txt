@@ -111,3 +111,4 @@
 - 12/06/2026 10 F1  Letteratura italiana	 PERCENTUALI: 47.8 (I) 58.3 (II)
 - 12/06/2026 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 PERCENTUALI: 100.0 (I) 83.3 (II)
 - 12/06/2026 06 A3  Microbiologia e microbiologia clinica	 PERCENTUALI: 56.7 (I) 48.7 (II)
+- 12/06/2026 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	 PERCENTUALI: 76.7 (I) 63.5 (II)

@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 112/190 
+ESITI PUBBLICATI 113/190 
 
 - 12/06/2026 13 D3  Demografia e statistica sociale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
@@ -47,6 +47,8 @@ ESITI PUBBLICATI 112/190
 - 12/06/2026 06 E3  Neurochirurgia e chirurgia maxillo facciale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE3/2/6) 
 
 - 12/06/2026 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD4/2/6) 
+
+- 12/06/2026 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD2/2/6) 
 
 - 12/06/2026 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD1/2/6) 
 
@@ -308,6 +310,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/D1: : 81.0 (I) 61.7 (II)
 
+06/D2: : 76.7 (I) 63.5 (II)
+
 06/D3: : 78.4 (I) 57.5 (II)
 
 06/D4: : 60.0 (I) 17.3 (II)
@@ -450,7 +454,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-12 17:41:10.678721
+UPDATED 2026-06-12 17:46:09.916167
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

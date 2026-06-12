@@ -4,7 +4,6 @@
 05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
 06 A4  Anatomia patologica	
-06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D6  Neurologia	
 06 F2  Malattie apparato visivo	
 06 F4  Malattie apparato locomotore e medicina fisica e riabilitativa	
