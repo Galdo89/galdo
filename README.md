@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 89/190 
+ESITI PUBBLICATI 91/190 
 
 - 12/06/2026 13 D1  Statistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/2/6) 
 
@@ -15,6 +15,10 @@ ESITI PUBBLICATI 89/190
 - 12/06/2026 08 B3  Tecnica delle costruzioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB3/2/6) 
 
 - 12/06/2026 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA3/2/6) 
+
+- 12/06/2026 07 A1  Economia agraria ed estimo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/2/6) 
+
+- 12/06/2026 05 D1  Fisiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/2/6) 
 
 - 12/06/2026 02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FC1/2/6) 
 
@@ -232,6 +236,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/C1: : 45.2 (I) 48.3 (II)
 
+05/D1: : 69.2 (I) 32.9 (II)
+
 05/E1: : 56.5 (I) 40.0 (II)
 
 05/E2: : 48.6 (I) 26.3 (II)
@@ -259,6 +265,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/G1: : 70.3 (I) 62.5 (II)
 
 06/N2: : 63.6 (I) 48.3 (II)
+
+07/A1: : 42.3 (I) 45.7 (II)
 
 07/B1: : 92.0 (I) 88.2 (II)
 
@@ -358,7 +366,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-12 12:40:22.636509
+UPDATED 2026-06-12 12:46:38.187321
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
