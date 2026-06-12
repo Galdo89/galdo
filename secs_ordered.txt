@@ -95,3 +95,4 @@
 - 12/06/2026 06 I1  Diagnostica per immagini, radioterapia e neuroradiologia	 PERCENTUALI: 88.6 (I) 62.7 (II)
 - 12/06/2026 01 A2  Geometria e algebra	 PERCENTUALI: 52.4 (I) 52.2 (II)
 - 12/06/2026 08 C1  Design e progettazione tecnologica dell'architettura	 PERCENTUALI: 40.0 (I) 32.8 (II)
+- 12/06/2026 13 B2  Economia e gestione delle imprese	 PERCENTUALI: 56.9 (I) 45.7 (II)

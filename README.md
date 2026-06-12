@@ -1,6 +1,8 @@
-ESITI PUBBLICATI 96/190 
+ESITI PUBBLICATI 97/190 
 
 - 12/06/2026 13 D1  Statistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD1/2/6) 
+
+- 12/06/2026 13 B2  Economia e gestione delle imprese	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB2/2/6) 
 
 - 12/06/2026 13 A4  Economia applicata	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA4/2/6) 
 
@@ -364,6 +366,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/A5: : 31.2 (I) 32.1 (II)
 
+13/B2: : 56.9 (I) 45.7 (II)
+
 13/B3: : 81.8 (I) 75.7 (II)
 
 13/C1: : 90.9 (I) 88.9 (II)
@@ -386,7 +390,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-12 13:56:23.698882
+UPDATED 2026-06-12 14:01:44.013364
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

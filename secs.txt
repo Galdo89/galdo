@@ -86,7 +86,6 @@
 12 H2  Storia del diritto medievale e moderno	
 12 H3  Filosofia del diritto	
 13 B1  Economia aziendale	
-13 B2  Economia e gestione delle imprese	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
 13 D2  Statistica economica	
