@@ -2,7 +2,6 @@
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
 02 B1  Fisica sperimentale della materia	
-02 C1  Astronomia, astrofisica, fisica della terra e dei pianeti	
 05 D1  Fisiologia	
 05 E3  Biochimica clinica e biologia molecolare clinica	
 05 F1  Biologia applicata	
@@ -104,7 +103,6 @@
 13 B2  Economia e gestione delle imprese	
 13 B4  Economia degli intermediari finanziari e finanza aziendale	
 13 B5  Scienze merceologiche	
-13 D1  Statistica	
 13 D2  Statistica economica	
 13 D3  Demografia e statistica sociale	
 14 C3  Sociologia dei fenomeni politici e giuridici	
