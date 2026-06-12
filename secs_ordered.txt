@@ -103,3 +103,4 @@
 - 12/06/2026 06 E3  Neurochirurgia e chirurgia maxillo facciale	 PERCENTUALI: 90.0 (I) 81.5 (II)
 - 12/06/2026 05 H1  Anatomia umana	 PERCENTUALI: 53.8 (I) 25.5 (II)
 - 12/06/2026 06 D4  Malattie cutanee, malattie infettive e malattie dell'apparato digerente	 PERCENTUALI: 60.0 (I) 17.3 (II)
+- 12/06/2026 06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	 PERCENTUALI: 81.0 (I) 61.7 (II)

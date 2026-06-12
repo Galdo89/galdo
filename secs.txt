@@ -5,7 +5,6 @@
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	
 06 A4  Anatomia patologica	
-06 D1  Malattia dell'apparato cardiovascolare e malattie dell'apparato respiratorio	
 06 D2  Endocrinologia, nefrologia e scienza della alimentazione e del benessere	
 06 D6  Neurologia	
 06 F1  Malattie odontostomatologiche	
