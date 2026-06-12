@@ -28,11 +28,8 @@
 07 A1  Economia agraria ed estimo	
 07 E1  Chimica agraria, genetica agraria e pedologia	
 07 F1  Scienze e tecnologie alimentari	
-08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 B2  Scienza delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
-08 E2  Restauro e storia dell'architettura	
-08 F1  Pianificazione e progettazione urbanistica e territoriale	
 09 A1  Ingegneria aeronautica, aerospaziale e navale	
 09 A2  Meccanica applicata alle macchine	
 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	
