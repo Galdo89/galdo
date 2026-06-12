@@ -1,7 +1,6 @@
 01 B1  Informatica	
 02 A1  Fisica sperimentale delle interazioni fondamentali	
 05 F1  Biologia applicata	
-05 H1  Anatomia umana	
 05 I1  Genetica	
 06 A2  Patologia generale e patologia clinica	
 06 A3  Microbiologia e microbiologia clinica	

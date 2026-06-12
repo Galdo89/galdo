@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 102/190 
+ESITI PUBBLICATI 103/190 
 
 - 12/06/2026 13 D3  Demografia e statistica sociale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
@@ -33,6 +33,8 @@ ESITI PUBBLICATI 102/190
 - 12/06/2026 06 F3  Otorinolaringoiatria e audiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF3/2/6) 
 
 - 12/06/2026 06 E3  Neurochirurgia e chirurgia maxillo facciale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FE3/2/6) 
+
+- 12/06/2026 05 H1  Anatomia umana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH1/2/6) 
 
 - 12/06/2026 05 E3  Biochimica clinica e biologia molecolare clinica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE3/2/6) 
 
@@ -272,6 +274,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 05/G1: : 77.5 (I) 58.3 (II)
 
+05/H1: : 53.8 (I) 25.5 (II)
+
 05/H2: : 12.5 (I) 27.9 (II)
 
 05/I2: : 59.1 (I) 43.2 (II)
@@ -410,7 +414,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-12 14:56:08.063473
+UPDATED 2026-06-12 15:02:00.873140
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

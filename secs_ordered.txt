@@ -101,3 +101,4 @@
 - 12/06/2026 13 D3  Demografia e statistica sociale	 PERCENTUALI: 50.0 (I) 36.1 (II)
 - 12/06/2026 05 E3  Biochimica clinica e biologia molecolare clinica	 PERCENTUALI: 47.2 (I) 31.1 (II)
 - 12/06/2026 06 E3  Neurochirurgia e chirurgia maxillo facciale	 PERCENTUALI: 90.0 (I) 81.5 (II)
+- 12/06/2026 05 H1  Anatomia umana	 PERCENTUALI: 53.8 (I) 25.5 (II)
