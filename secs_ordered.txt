@@ -107,3 +107,6 @@
 - 12/06/2026 06 F1  Malattie odontostomatologiche	 PERCENTUALI: 95.1 (I) 88.1 (II)
 - 12/06/2026 10 G1  Glottologia e linguistica	 PERCENTUALI: 52.0 (I) 57.4 (II)
 - 12/06/2026 12 A1  Diritto privato	 PERCENTUALI: 92.6 (I) 73.5 (II)
+- 12/06/2026 10 D4  Filologia classica e tardoantica	 PERCENTUALI: 83.3 (I) 82.8 (II)
+- 12/06/2026 10 F1  Letteratura italiana	 PERCENTUALI: 47.8 (I) 58.3 (II)
+- 12/06/2026 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	 PERCENTUALI: 100.0 (I) 83.3 (II)
