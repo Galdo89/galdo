@@ -87,3 +87,4 @@
 - 12/06/2026 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	 PERCENTUALI: 85.7 (I) 55.2 (II)
 - 12/06/2026 08 E2  Restauro e storia dell'architettura	 PERCENTUALI: 69.7 (I) 65.9 (II)
 - 12/06/2026 08 F1  Pianificazione e progettazione urbanistica e territoriale	 PERCENTUALI: 82.6 (I) 61.0 (II)
+- 12/06/2026 13 A4  Economia applicata	 PERCENTUALI: 45.1 (I) 22.0 (II)
