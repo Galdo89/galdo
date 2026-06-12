@@ -30,7 +30,6 @@
 07 F1  Scienze e tecnologie alimentari	
 08 A3  Infrastrutture e sistemi di trasporto, estimo e valutazione	
 08 B2  Scienza delle costruzioni	
-08 B3  Tecnica delle costruzioni	
 08 C1  Design e progettazione tecnologica dell'architettura	
 08 D1  Progettazione architettonica	
 08 E1  Disegno	
