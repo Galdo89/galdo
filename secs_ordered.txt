@@ -120,3 +120,4 @@
 - 12/06/2026 10 D3  Lingua e letteratura latina	 PERCENTUALI: 75.0 (I) 100.0 (II)
 - 12/06/2026 10 L1  Lingue, letterature e culture inglese e anglo-americane	 PERCENTUALI: 50.0 (I) 48.8 (II)
 - 12/06/2026 10 N3  Culture dell'Asia centrale e orientale	 PERCENTUALI: 68.2 (I) 65.6 (II)
+- 12/06/2026 12 F1  Diritto processuale civile	 PERCENTUALI: 90.9 (I) 50.0 (II)
