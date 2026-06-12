@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 117/190 
+ESITI PUBBLICATI 121/190 
 
 - 12/06/2026 13 D3  Demografia e statistica sociale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/6) 
 
@@ -20,13 +20,21 @@ ESITI PUBBLICATI 117/190
 
 - 12/06/2026 12 A1  Diritto privato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/2/6) 
 
+- 12/06/2026 10 N3  Culture dell'Asia centrale e orientale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN3/2/6) 
+
 - 12/06/2026 10 N1  Culture del Vicino Oriente, del Medio Oriente e dell'Africa	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FN1/2/6) 
+
+- 12/06/2026 10 L1  Lingue, letterature e culture inglese e anglo-americane	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FL1/2/6) 
 
 - 12/06/2026 10 G1  Glottologia e linguistica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/2/6) 
 
 - 12/06/2026 10 F1  Letteratura italiana	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF1/2/6) 
 
 - 12/06/2026 10 D4  Filologia classica e tardoantica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/2/6) 
+
+- 12/06/2026 10 D3  Lingua e letteratura latina	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD3/2/6) 
+
+- 12/06/2026 10 D1  Storia antica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD1/2/6) 
 
 - 12/06/2026 08 F1  Pianificazione e progettazione urbanistica e territoriale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FF1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FF1/2/6) 
 
@@ -390,7 +398,11 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/F1: : 82.6 (I) 61.0 (II)
 
+10/D1: : 72.7 (I) 42.9 (II)
+
 10/D2: : 83.3 (I) 88.2 (II)
+
+10/D3: : 75.0 (I) 100.0 (II)
 
 10/D4: : 83.3 (I) 82.8 (II)
 
@@ -404,11 +416,15 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/I1: : 85.0 (I) 46.7 (II)
 
+10/L1: : 50.0 (I) 48.8 (II)
+
 10/M1: : 53.8 (I) 36.0 (II)
 
 10/M2: : 100.0 (I) 50.0 (II)
 
 10/N1: : 100.0 (I) 83.3 (II)
+
+10/N3: : 68.2 (I) 65.6 (II)
 
 11/D2: : 82.2 (I) 70.4 (II)
 
@@ -470,7 +486,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-12 18:11:07.229365
+UPDATED 2026-06-12 18:16:10.378285
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
