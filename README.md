@@ -1,10 +1,16 @@
-ESITI PUBBLICATI 135/190 
+ESITI PUBBLICATI 138/190 
+
+- 17/06/2026 09 D3  Impianti e processi industriali chimici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/2/6) 
+
+- 17/06/2026 09 D2  Sistemi, metodi e tecnologie dell'ingegneria chimica e di processo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/2/6) 
 
 - 17/06/2026 09 C2  Fisica tecnica e ingegneria nucleare	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC2/2/6) 
 
 - 17/06/2026 09 C1  Macchine e sistemi per l'energia e l'ambiente	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/2/6) 
 
 - 17/06/2026 09 B3  Ingegneria economico-gestionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/2/6) 
+
+- 17/06/2026 07 E1  Chimica agraria, genetica agraria e pedologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/2/6) 
 
 - 16/06/2026 11 C2  Logica, storia e filosofia della scienza	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/2/6) 
 
@@ -394,6 +400,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 07/D1: : 81.0 (I) 54.8 (II)
 
+07/E1: : 57.9 (I) 69.2 (II)
+
 07/G1: : 64.7 (I) 68.2 (II)
 
 07/H1: : 88.9 (I) 73.7 (II)
@@ -435,6 +443,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 09/C1: : 72.7 (I) 66.7 (II)
 
 09/C2: : 50.0 (I) 56.9 (II)
+
+09/D2: : 64.3 (I) 31.6 (II)
+
+09/D3: : 52.6 (I) 61.1 (II)
 
 10/D1: : 72.7 (I) 42.9 (II)
 
@@ -542,7 +554,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-17 17:26:00.938353
+UPDATED 2026-06-17 17:31:33.311908
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
