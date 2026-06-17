@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 146/190 
+ESITI PUBBLICATI 147/190 
+
+- 17/06/2026 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/6) 
 
 - 17/06/2026 13 B5  Scienze merceologiche	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB5/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB5/2/6) 
 
@@ -568,6 +570,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 13/D1: : 36.1 (I) 26.1 (II)
 
+13/D2: : 58.6 (I) 29.2 (II)
+
 13/D3: : 50.0 (I) 36.1 (II)
 
 13/D4: : 48.4 (I) 67.4 (II)
@@ -586,7 +590,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-17 18:11:09.266269
+UPDATED 2026-06-17 18:16:02.049724
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

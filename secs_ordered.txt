@@ -145,3 +145,4 @@
 - 17/06/2026 12 B1  Diritto commerciale	 PERCENTUALI: 60.0 (I) 57.9 (II)
 - 17/06/2026 12 E2  Diritto comparato	 PERCENTUALI: 80.0 (I) 66.7 (II)
 - 17/06/2026 13 B5  Scienze merceologiche	 PERCENTUALI: 81.8 (I) 75.0 (II)
+- 17/06/2026 13 D2  Statistica economica	 PERCENTUALI: 58.6 (I) 29.2 (II)
