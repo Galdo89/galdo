@@ -1,4 +1,10 @@
-ESITI PUBBLICATI 132/190 
+ESITI PUBBLICATI 135/190 
+
+- 17/06/2026 09 C2  Fisica tecnica e ingegneria nucleare	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC2/2/6) 
+
+- 17/06/2026 09 C1  Macchine e sistemi per l'energia e l'ambiente	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/2/6) 
+
+- 17/06/2026 09 B3  Ingegneria economico-gestionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/2/6) 
 
 - 16/06/2026 11 C2  Logica, storia e filosofia della scienza	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/2/6) 
 
@@ -424,6 +430,12 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/F1: : 82.6 (I) 61.0 (II)
 
+09/B3: : 50.0 (I) 28.6 (II)
+
+09/C1: : 72.7 (I) 66.7 (II)
+
+09/C2: : 50.0 (I) 56.9 (II)
+
 10/D1: : 72.7 (I) 42.9 (II)
 
 10/D2: : 83.3 (I) 88.2 (II)
@@ -530,7 +542,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-17 17:11:09.493926
+UPDATED 2026-06-17 17:16:18.033604
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
