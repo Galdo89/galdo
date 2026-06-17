@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 138/190 
+ESITI PUBBLICATI 141/190 
 
 - 17/06/2026 09 D3  Impianti e processi industriali chimici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/2/6) 
 
@@ -9,6 +9,12 @@ ESITI PUBBLICATI 138/190
 - 17/06/2026 09 C1  Macchine e sistemi per l'energia e l'ambiente	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/2/6) 
 
 - 17/06/2026 09 B3  Ingegneria economico-gestionale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/2/6) 
+
+- 17/06/2026 09 A3  Progettazione industriale, costruzioni meccaniche e metallurgia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA3/2/6) 
+
+- 17/06/2026 09 A2  Meccanica applicata alle macchine	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA2/2/6) 
+
+- 17/06/2026 09 A1  Ingegneria aeronautica, aerospaziale e navale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/2/6) 
 
 - 17/06/2026 07 E1  Chimica agraria, genetica agraria e pedologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/2/6) 
 
@@ -438,6 +444,12 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 08/F1: : 82.6 (I) 61.0 (II)
 
+09/A1: : 40.0 (I) 51.2 (II)
+
+09/A2: : 62.5 (I) 63.2 (II)
+
+09/A3: : 88.2 (I) 84.1 (II)
+
 09/B3: : 50.0 (I) 28.6 (II)
 
 09/C1: : 72.7 (I) 66.7 (II)
@@ -554,7 +566,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-17 17:41:08.832375
+UPDATED 2026-06-17 17:46:15.419098
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
