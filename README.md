@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 149/190 
+ESITI PUBBLICATI 151/190 
 
 - 17/06/2026 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/6) 
 
@@ -7,6 +7,10 @@ ESITI PUBBLICATI 149/190
 - 17/06/2026 12 E2  Diritto comparato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/2/6) 
 
 - 17/06/2026 12 B1  Diritto commerciale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB1/2/6) 
+
+- 17/06/2026 11 D1  Pedagogia e storia della pedagogia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD1/2/6) 
+
+- 17/06/2026 11 C5  Storia della filosofia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/2/6) 
 
 - 17/06/2026 11 C4  Estetica e filosofia dei linguaggi	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC4/2/6) 
 
@@ -528,6 +532,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/C4: : 48.3 (I) 59.6 (II)
 
+11/C5: : 89.5 (I) 65.2 (II)
+
+11/D1: : 78.3 (I) 68.2 (II)
+
 11/D2: : 82.2 (I) 70.4 (II)
 
 11/E3: : 67.5 (I) 55.6 (II)
@@ -598,7 +606,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-17 19:25:59.551159
+UPDATED 2026-06-17 19:30:42.261269
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
