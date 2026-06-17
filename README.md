@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 151/190 
+ESITI PUBBLICATI 152/190 
 
 - 17/06/2026 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/6) 
 
@@ -7,6 +7,8 @@ ESITI PUBBLICATI 151/190
 - 17/06/2026 12 E2  Diritto comparato	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE2/2/6) 
 
 - 17/06/2026 12 B1  Diritto commerciale	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB1/2/6) 
+
+- 17/06/2026 11 E1  Psicologia generale, psicobiologia e psicometria	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE1/2/6) 
 
 - 17/06/2026 11 D1  Pedagogia e storia della pedagogia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD1/2/6) 
 
@@ -538,6 +540,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 11/D2: : 82.2 (I) 70.4 (II)
 
+11/E1: : 64.8 (I) 48.4 (II)
+
 11/E3: : 67.5 (I) 55.6 (II)
 
 12/A1: : 92.6 (I) 73.5 (II)
@@ -606,7 +610,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-17 19:41:04.483549
+UPDATED 2026-06-17 19:46:07.682129
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

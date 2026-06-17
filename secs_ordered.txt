@@ -150,3 +150,4 @@
 - 17/06/2026 11 C4  Estetica e filosofia dei linguaggi	 PERCENTUALI: 48.3 (I) 59.6 (II)
 - 17/06/2026 11 C5  Storia della filosofia	 PERCENTUALI: 89.5 (I) 65.2 (II)
 - 17/06/2026 11 D1  Pedagogia e storia della pedagogia	 PERCENTUALI: 78.3 (I) 68.2 (II)
+- 17/06/2026 11 E1  Psicologia generale, psicobiologia e psicometria	 PERCENTUALI: 64.8 (I) 48.4 (II)
