@@ -146,3 +146,5 @@
 - 17/06/2026 12 E2  Diritto comparato	 PERCENTUALI: 80.0 (I) 66.7 (II)
 - 17/06/2026 13 B5  Scienze merceologiche	 PERCENTUALI: 81.8 (I) 75.0 (II)
 - 17/06/2026 13 D2  Statistica economica	 PERCENTUALI: 58.6 (I) 29.2 (II)
+- 17/06/2026 11 C3  Filosofia morale	 PERCENTUALI: 83.3 (I) 61.0 (II)
+- 17/06/2026 11 C4  Estetica e filosofia dei linguaggi	 PERCENTUALI: 48.3 (I) 59.6 (II)
