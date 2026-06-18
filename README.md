@@ -1,4 +1,4 @@
-ESITI PUBBLICATI 175/190 
+ESITI PUBBLICATI 176/190 
 
 - 18/06/2026 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/6) 
 
@@ -7,6 +7,8 @@ ESITI PUBBLICATI 175/190
 - 18/06/2026 12 D2  Diritto tributario	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/6) 
 
 - 18/06/2026 12 B2  Diritto del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/2/6) 
+
+- 18/06/2026 10 F2  Letteratura italiana contemporanea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FF2/2/6) 
 
 - 18/06/2026 09 G1  Automatica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FG1/2/6) 
 
@@ -570,6 +572,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/F1: : 47.8 (I) 58.3 (II)
 
+10/F2: : 76.9 (I) 58.8 (II)
+
 10/F3: : 66.7 (I) 51.4 (II)
 
 10/G1: : 52.0 (I) 57.4 (II)
@@ -702,7 +706,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-18 19:55:35.414337
+UPDATED 2026-06-18 20:57:49.553609
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
