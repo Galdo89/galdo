@@ -21,5 +21,4 @@
 10 F2  Letteratura italiana contemporanea	
 10 F4  Critica letteraria e letterature comparate	
 12 D2  Diritto tributario	
-12 E4  Diritto dell'Unione europea	
 14 C3  Sociologia dei fenomeni politici e giuridici	
