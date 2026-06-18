@@ -171,3 +171,6 @@
 - 18/06/2026 09 E4  Misure	 PERCENTUALI: 66.7 (I) 50.0 (II)
 - 18/06/2026 09 F1  Campi elettromagnetici	 PERCENTUALI: 70.0 (I) 73.7 (II)
 - 18/06/2026 09 F2  Telecomunicazioni	 PERCENTUALI: 60.0 (I) 42.9 (II)
+- 18/06/2026 09 G1  Automatica	 PERCENTUALI: 65.4 (I) 38.2 (II)
+- 18/06/2026 12 D2  Diritto tributario	 PERCENTUALI: 50.0 (I) 28.6 (II)
+- 18/06/2026 14 C3  Sociologia dei fenomeni politici e giuridici	 PERCENTUALI: 61.9 (I) 57.5 (II)
