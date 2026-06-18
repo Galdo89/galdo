@@ -169,3 +169,5 @@
 - 18/06/2026 09 E2  Ingegneria dell'energia elettrica	 PERCENTUALI: 70.0 (I) 70.8 (II)
 - 18/06/2026 09 E3  Elettronica	 PERCENTUALI: 75.0 (I) 72.4 (II)
 - 18/06/2026 09 E4  Misure	 PERCENTUALI: 66.7 (I) 50.0 (II)
+- 18/06/2026 09 F1  Campi elettromagnetici	 PERCENTUALI: 70.0 (I) 73.7 (II)
+- 18/06/2026 09 F2  Telecomunicazioni	 PERCENTUALI: 60.0 (I) 42.9 (II)

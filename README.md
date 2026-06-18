@@ -1,8 +1,12 @@
-ESITI PUBBLICATI 170/190 
+ESITI PUBBLICATI 172/190 
 
 - 18/06/2026 12 E4  Diritto dell'Unione europea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/2/6) 
 
 - 18/06/2026 12 B2  Diritto del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/2/6) 
+
+- 18/06/2026 09 F2  Telecomunicazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF2/2/6) 
+
+- 18/06/2026 09 F1  Campi elettromagnetici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FF1/2/6) 
 
 - 18/06/2026 09 E4  Misure	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE4/2/6) 
 
@@ -538,6 +542,10 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/E4: : 66.7 (I) 50.0 (II)
 
+09/F1: : 70.0 (I) 73.7 (II)
+
+09/F2: : 60.0 (I) 42.9 (II)
+
 10/A1: : 66.7 (I) 48.4 (II)
 
 10/C1: : 68.4 (I) 48.9 (II)
@@ -682,7 +690,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-18 19:25:49.814401
+UPDATED 2026-06-18 19:31:00.891671
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
