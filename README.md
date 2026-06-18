@@ -1,8 +1,16 @@
-ESITI PUBBLICATI 166/190 
+ESITI PUBBLICATI 170/190 
 
 - 18/06/2026 12 E4  Diritto dell'Unione europea	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/2/6) 
 
 - 18/06/2026 12 B2  Diritto del lavoro	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FB2/2/6) 
+
+- 18/06/2026 09 E4  Misure	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE4/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE4/2/6) 
+
+- 18/06/2026 09 E3  Elettronica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE3/2/6) 
+
+- 18/06/2026 09 E2  Ingegneria dell'energia elettrica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE2/2/6) 
+
+- 18/06/2026 09 E1  Elettrotecnica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE1/2/6) 
 
 - 17/06/2026 13 D2  Statistica economica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD2/2/6) 
 
@@ -522,6 +530,14 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 09/D3: : 52.6 (I) 61.1 (II)
 
+09/E1: : 31.2 (I) 45.5 (II)
+
+09/E2: : 70.0 (I) 70.8 (II)
+
+09/E3: : 75.0 (I) 72.4 (II)
+
+09/E4: : 66.7 (I) 50.0 (II)
+
 10/A1: : 66.7 (I) 48.4 (II)
 
 10/C1: : 68.4 (I) 48.9 (II)
@@ -666,7 +682,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-18 19:10:51.251770
+UPDATED 2026-06-18 19:15:51.881263
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
