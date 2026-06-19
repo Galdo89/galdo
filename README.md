@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 176/190 
+ESITI PUBBLICATI 177/190 
+
+- 19/06/2026 10 B1  Storia dell'arte	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/2/6) 
 
 - 18/06/2026 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/6) 
 
@@ -558,6 +560,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 10/A1: : 66.7 (I) 48.4 (II)
 
+10/B1: : 71.4 (I) 48.2 (II)
+
 10/C1: : 68.4 (I) 48.9 (II)
 
 10/D1: : 72.7 (I) 42.9 (II)
@@ -706,7 +710,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-19 10:25:35.224947
+UPDATED 2026-06-19 10:30:57.586573
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).

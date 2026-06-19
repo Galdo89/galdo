@@ -10,5 +10,4 @@
 09 D1  Scienza e tecnologia dei materiali	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
-10 B1  Storia dell'arte	
 10 F4  Critica letteraria e letterature comparate	
