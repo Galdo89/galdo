@@ -1,6 +1,10 @@
-ESITI PUBBLICATI 177/190 
+ESITI PUBBLICATI 179/190 
 
 - 19/06/2026 10 B1  Storia dell'arte	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FB1/2/6) 
+
+- 19/06/2026 06 L1  Anestesiologia	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FL1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FL1/2/6) 
+
+- 19/06/2026 06 F2  Malattie apparato visivo	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FF2/2/6) 
 
 - 18/06/2026 14 C3  Sociologia dei fenomeni politici e giuridici	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/6) 
 
@@ -458,6 +462,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/F1: : 95.1 (I) 88.1 (II)
 
+06/F2: : 80.0 (I) 42.9 (II)
+
 06/F3: : 36.4 (I) 68.0 (II)
 
 06/F4: : 65.4 (I) 57.8 (II)
@@ -467,6 +473,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 06/H1: : 80.0 (I) 85.0 (II)
 
 06/I1: : 88.6 (I) 62.7 (II)
+
+06/L1: : 92.3 (I) 72.1 (II)
 
 06/M1: : 54.7 (I) 41.7 (II)
 
@@ -710,7 +718,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-06-19 10:40:46.303275
+UPDATED 2026-06-19 10:45:47.565027
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
