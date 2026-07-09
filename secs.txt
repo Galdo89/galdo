@@ -4,4 +4,3 @@
 08 B2  Scienza delle costruzioni	
 09 G2  Bioingegneria	
 09 H1  Sistemi di elaborazione delle informazioni	
-10 F4  Critica letteraria e letterature comparate	
