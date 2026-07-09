@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 182/190 
+ESITI PUBBLICATI 183/190 
+
+- 09/07/2026 06 A2  Patologia generale e patologia clinica	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA2/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FA2/2/6) 
 
 - 09/07/2026 05 F1  Biologia applicata	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FF1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FF1/2/6) 
 
@@ -444,6 +446,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/A1: : 46.2 (I) 27.5 (II)
 
+06/A2: : 61.9 (I) 31.1 (II)
+
 06/A3: : 56.7 (I) 48.7 (II)
 
 06/A4: : 76.9 (I) 46.2 (II)
@@ -730,7 +734,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-07-09 15:55:28.430059
+UPDATED 2026-07-09 16:01:06.375017
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
