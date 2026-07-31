@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 188/190 
+ESITI PUBBLICATI 189/190 
+
+- 31/07/2026 06 N1  Scienze delle professioni sanitarie e delle tecnologie mediche applicate	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/2/6) 
 
 - 31/07/2026 02 A1  Fisica sperimentale delle interazioni fondamentali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/2/6) 
 
@@ -508,6 +510,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 06/M2: : 76.2 (I) 44.7 (II)
 
+06/N1: : 25.3 (I) 27.4 (II)
+
 06/N2: : 63.6 (I) 48.3 (II)
 
 07/A1: : 42.3 (I) 45.7 (II)
@@ -754,7 +758,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-07-31 19:40:32.078398
+UPDATED 2026-07-31 19:45:35.766820
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
