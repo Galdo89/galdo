@@ -1,4 +1,6 @@
-ESITI PUBBLICATI 187/190 
+ESITI PUBBLICATI 188/190 
+
+- 31/07/2026 02 A1  Fisica sperimentale delle interazioni fondamentali	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/2/6) 
 
 - 30/07/2026 09 H1  Sistemi di elaborazione delle informazioni	  [I fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FH1/1/6) [II fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FH1/2/6) 
 
@@ -390,6 +392,8 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 01/B1: : 30.7 (I) 42.7 (II)
 
+02/A1: : 66.7 (I) 51.1 (II)
+
 02/A2: : 32.0 (I) 37.5 (II)
 
 02/B1: : 60.3 (I) 42.6 (II)
@@ -750,7 +754,7 @@ PERCENTUALI DI PASSAGGIO PER SETTORE:
 
 14/D1: : 40.0 (I) 34.2 (II)
 
-UPDATED 2026-07-31 19:25:24.730638
+UPDATED 2026-07-31 19:30:45.860703
 ###################################################### 
 
 Si tratta di un semplice script in python per controllare quando sono pubblicati gli esiti (ASN 2023, sesto quadrimestre).
